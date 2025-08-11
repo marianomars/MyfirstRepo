@@ -1,0 +1,1 @@
+So far in this course, I have learned how to build RESTful APIs using Express.js, protect routes with authentication middleware, and validate data using Joi schemas. I have also improved my Git skills, learning how to work with feature branches and write clear, standardized commit messages.
