@@ -2,4 +2,5 @@ What I have learned from this course.
 I've learned how to navigate the Linux file system using basic terminal commands like ls, cd, pwd, and mkdir.
 I've also gained an understanding of how Linux treats everything as a file, including devices and processes. 
 One of the most useful skills I've picked up is how to manage files and permissions with commands like chmod, which has helped me better understand system security and user roles. 
-Overall, the course has made me more comfortable working with the command line and understanding how Linux systems are structured.
+Overall, the course has made me more comfortable working with the command line and understanding how Linux systems are structure
+So far in this course, I have learned how to build RESTful APIs using Express.js, protect routes with authentication middleware, and validate data using Joi schemas. I have also improved my Git skills, learning how to work with feature branches and write clear, standardized commit messages.
